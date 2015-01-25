@@ -13,8 +13,6 @@
 <?php if (have_posts()) : while (have_posts()) : the_post(); ?>
 <div class="postkap"><div class="post"><div class="postic"> 
 <div class="anatitle"><h4><a href="<?php the_permalink() ?>" rel="bookmark" title="<?php the_title_attribute(); ?>"><?php the_title(); ?></a></h4></div>
-<div class="detaylar"><?php the_author_posts_link(); ?> tarafindan <?php the_time('d.m.y') ?> tarihinde yazıldı / Güncelleme: <?php the_modified_date('d.m.y'); ?>
-<span><?php echo getPostViews(get_the_ID()); ?> / <?php comments_popup_link('Yorum Yok', '1 yorum', '% yorum'); ?></span></div>
 <div id="anaicerik-<?php the_ID(); ?>" class="anaicerik">
 <?php the_excerpt(get_the_title(). ' yazisinin devamini okuyun &raquo;'); ?></div>
 </div></div></div>

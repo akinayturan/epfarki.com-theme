@@ -43,7 +43,7 @@ ul#navim{height:80px}
 #yukleyici{text-align:center;padding-top:5px}
 .postkap{float:left;width:100%}
 .post{margin-left:5px;margin-right:5px;padding:10px}
-.postic{width:100%;text-align:justify;min-height:150px;float:left}
+.postic{width:100%;text-align:justify;min-height:125px;float:left}
 .postic a{color:black}
 .postic a:hover{color:darkGreen}
 .title{margin-bottom:5px}
