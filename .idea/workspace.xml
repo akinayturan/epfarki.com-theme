@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d76249b-1597-4cb7-bd26-b4a2a55c4303" name="Default" comment="">
-      <change type="DELETED" beforePath="E:\github\eptheme\resim\alim.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\eptheme\resim\bg.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\eptheme\resim\bullet.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\eptheme\resim\ek\bottom-bg.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\eptheme\resim\gri.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\eptheme\resim\izleme.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\eptheme\resim\line.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\eptheme\resim\menubg.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\eptheme\resim\pattern1.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\eptheme\resim\postarka.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\eptheme\resim\tab.bmp" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\eptheme\resim\tabarka.gif" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\eptheme\resim\tabarka.gif.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\eptheme\resim\tabarka.png" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\eptheme\resim\tabtop.jpg" afterPath="" />
-      <change type="DELETED" beforePath="E:\github\eptheme\resim\ust2.png" afterPath="" />
-    </list>
+    <list default="true" id="6d76249b-1597-4cb7-bd26-b4a2a55c4303" name="Default" comment="" />
     <ignored path="eptheme.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -172,7 +155,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="7" />
     <editor active="false" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3288889" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
