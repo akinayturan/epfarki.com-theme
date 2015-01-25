@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d76249b-1597-4cb7-bd26-b4a2a55c4303" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style.css" afterPath="$PROJECT_DIR$/style.css" />
+      <change type="DELETED" beforePath="E:\github\eptheme\resim\alim.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\eptheme\resim\bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\eptheme\resim\bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\eptheme\resim\ek\bottom-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\eptheme\resim\gri.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\eptheme\resim\izleme.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\eptheme\resim\line.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\eptheme\resim\menubg.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\eptheme\resim\pattern1.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\eptheme\resim\postarka.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\eptheme\resim\tab.bmp" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\eptheme\resim\tabarka.gif" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\eptheme\resim\tabarka.gif.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\eptheme\resim\tabarka.png" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\eptheme\resim\tabtop.jpg" afterPath="" />
+      <change type="DELETED" beforePath="E:\github\eptheme\resim\ust2.png" afterPath="" />
     </list>
     <ignored path="eptheme.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -122,6 +136,26 @@
     <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
@@ -139,7 +173,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3288889" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -149,7 +183,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
