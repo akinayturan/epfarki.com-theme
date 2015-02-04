@@ -75,7 +75,7 @@ ul#navim{height:80px}
 .button:hover{background-color:#FFFFDD}
 h1{font-size:34px;color:black;margin-bottom:5px;line-height:26px;font-family:Georgia,serif}
 h2{font-size:28px;color:black;margin-bottom:5px;line-height:24px;font-family:Georgia,serif}
-h3{font-size:22px;color:black;margin-bottom:5px;line-height:26px;font-family:Georgia,serif;border-bottom:1px solid #ddd}
+h3{font-size:22px;color:black;margin-bottom:5px;line-height:26px;font-family:Georgia,serif}
 h4{font-size:18px;color:black;margin-bottom:5px;line-height:18px;font-family:Georgia,serif}
 h5{font-size:16px;color:black;margin-bottom:5px;line-height:16px;font-family:Georgia,serif}
 h6{font-size:14px;color:black;margin-bottom:5px;line-height:16px;font-family:Georgia,serif}
@@ -93,6 +93,7 @@ ul#navim{height:80px}
 .yanmenu ul{border-style:none;padding:0px;margin:0px 0px 5px 10px}
 .yanmenu li li{padding:5px 0px 6px 5px;margin:0px;border-bottom-style:dashed;border-bottom-width:1px;border-bottom-color:#E8E8E8;list-style-type:none;list-style-position:inside;list-style-image:url('resim/resim.png')}
 .yanmenu li{list-style-type:none;margin-top:20px}
+.yorumlar {padding-bottom: 10px;padding-top: 10px;border-top: 1px solid #CCC;float: left;width: 100%;text-align: justify}
 .yorumlar a{text-decoration:none;color:black}
 .yorumlar a:hover{text-decoration:none;color:darkBlue}
 .yorumlar textarea{width:98%;height:90px;font-size:1em;padding:5px;color:#111;font-family:Verdana,Geneva,Arial,Helvetica,sans-serif;margin-bottom:10px;border:2px solid #eee;border-radius:3px}
@@ -251,11 +252,10 @@ input2{padding:2px;margin:5px 5px 1px 0;color:#B0B0B0;background-color:#222;bord
 #footer-wrap .col-b{float:left;width:315px;margin-left:10px}
 #footer-wrap .col-b h2{font-size:18px;margin:0px 0px 6px 0px;padding:10px 0px 3px 0px;color:#09C111;border-bottom:1px solid #555555}
 #footer-wrap .col-b h2 span{color:#333}
-.metit{color:black}
-.metit a{color:black}
-.metit .tarih{margin-right:15px}
-.metit .soltaraf{float:left;width:450px;font-family:Georgia,serif;font-size:0.9em;line-height:1.5em}
-.metit .sagtaraf{border-left:1px dashed #68696E;float:right;padding-bottom:9px;padding-left:9px;padding-top:9px;width:100px}
+
+.etiketler .soltaraf{float:left;font-family:Georgia,serif;font-size:0.9em;line-height:1.5em}
+.etiketler .sagtaraf{border-left: 1px dashed #68696E;float: right;padding-bottom: 3px;padding-top: 3px;}
+.sosyalsingle{padding-left:10px;display: table-cell;vertical-align: middle;text-align:center}
 .icerik{padding-top:10px;border-top:1px solid #ddd;margin-top:8px;padding-bottom:5px}
 .icerik a{color:#159}
 .icerik a:hover{color:#438BC5;text-decoration:underline}
@@ -447,7 +447,7 @@ code.codecolorer{padding:2px}
 #lbCaption,#lbNumber{margin-right:71px}
 #lbCaption{font-weight:bold}
 /* media */@media print{body{margin:0;padding:0;line-height:1.4em;word-spacing:1px;letter-spacing:0.2px;font:13px Arial,Helvetica,"Lucida Grande",serif;color:#000}
-#ustmenu,#footer-outer,#sidebar,#hareketlireklam,#kategorimenu,.etiketler,.yorumlar,.oncekiyazi,.metit{display:none !important}
+#ustmenu,#footer-outer,#sidebar,#hareketlireklam,#kategorimenu,.etiketler,.yorumlar,.oncekiyazi{display:none !important}
 #anayazialan{margin-left:0px !important}
 .icerik{border:none !important}
 img,img a,.more-link a{border:none}

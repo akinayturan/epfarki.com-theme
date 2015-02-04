@@ -1,5 +1,8 @@
-<a style="margin-right: 5px; float: left;" href="//www.addthis.com/bookmark.php?v=300&url=<?php the_permalink() ?>&title=<?php the_title(); ?>" rel="external" title="Paylaş"><img src="http://www.danstreecare.com/images/social/network-share-icon.png" width="32" height="32" border="0" alt="Paylaş" /></a>
-
-<div class="addthis_toolbox addthis_default_style addthis_32x32_style" addthis:url="<?php the_permalink() ?>" addthis:description="<?php the_title(); ?>" addthis:title="<?php the_title(); ?>">
-<a class="addthis_counter addthis_bubble_style"></a>
+<div class="sosyalsingle">
+    <a rel="external" title="fb_social_social_media" href="//www.facebook.com/sharer/sharer.php?u=<?php the_permalink() ?>%2F%23.VNG_-yUZ-2I.facebook&p[title]=<?php the_title(); ?>&display=popup"><img src="//epfarki.com/ep/tema/res/fb_social_social_media-32.png" alt="fb_social_social_media" height="32" width="32"></a>
+    <a rel="external" title="twitter" href="https://twitter.com/intent/tweet?text=<?php the_title(); ?>&url=<?php the_permalink() ?>%2F%23.VNHDhJjcbu4.twitter&related="><img src="//epfarki.com/ep/tema/res/twitter-32.png" alt="twitter" height="32" width="32"></a>
+    <a rel="external" title="pinterest" href="//pinterest.com/pin/create/link/?url=<?php the_permalink() ?>&description=<?php the_title(); ?>"><img src="//epfarki.com/ep/tema/res/pinterest-32.png" alt="pinterest" height="32" width="32"></a>
+    <a rel="external" title="google_plus" href="//plus.google.com/share?url=<?php the_permalink() ?>"><img src="//epfarki.com/ep/tema/res/google_plus-32.png" alt="google_plus" height="32" width="32"></a>
+    <a rel="external" title="linkedin" href="https://www.linkedin.com/shareArticle?mini=true&url=<?php the_permalink() ?>%2F%23.VNHDuxZ6qq0.linkedin&title=<?php the_title(); ?>&ro=false&summary=&source="><img src="//epfarki.com/ep/tema/res/linkedin-32.png" alt="linkedin" height="32" width="32"></a>
+    <a rel="external" title="network-share-icon" href="//www.addthis.com/bookmark.php?v=300&url=<?php the_permalink() ?>&title=<?php the_title(); ?>"><img src="//epfarki.com/ep/tema/res/network-share-icon-32.png" alt="network-share-icon" height="32" width="32"></a>
 </div>

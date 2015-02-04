@@ -1,5 +1,5 @@
 <div id="hareketlireklam">
-<a rel="external" title="hostturka™" href="//hostturka.com/"><img title="HOSTTURKA™ - Hosting Hizmetleri" src="//epfarki.com/ep/reklam/reklam-hostturka125.jpg" alt="hostturka" height="35" width="125"></a>
+<a rel="external" title="hostturka™" href="//hostturka.com/"><img title="HOSTTURKA™ - Hosting Hizmetleri" src="//epfarki.com/ep/tanitim/reklam-hostturka125.jpg" alt="hostturka" height="35" width="125"></a>
 <br />
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- esnek -->
@@ -12,7 +12,7 @@
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 <br />
-<a title="reklam" href="//epfarki.com/reklam-ver/"><img title="Reklam Seçenekleri" src="//epfarki.com/ep/reklam/reklam34.jpg" alt="hostturka" height="34" width="125"></a>
+<a title="reklam" href="//epfarki.com/reklam-ver/"><img title="Reklam Seçenekleri" src="//epfarki.com/ep/tanitim/reklam34.jpg" alt="hostturka" height="34" width="125"></a>
 <br />
 <div style="width: 125px !important;height: 80px !important;"><div style="display: block;"><a href="http://yazarkafe.hurriyet.com.tr" class="BoomadsButtonLink143" target="_blank"><img src="http://widget.boomads.com/images/bumerangWidget/bumerang-yazarkafe-yazarlari-12580-square.gif" alt="Bumerang - Yazarkafe"/></a></div></div><script type="text/javascript"><!--
 boomads_widget_client = "724dbb2af4fe4588bbfb41b99d2ee20c";
