@@ -2,29 +2,29 @@
 
 
 <div id="footer-outer" class="temiz">
-<div class="footerout">
-	
-<div id="footer-bottom">
-<div class="bottom-left"><p>
-<a href="//epfarki.com/hizmet/" rel="appendix" title="Hizmet">Hizmet</a> |
-<a href="//epfarki.com/git/?url=//feeds.feedburner.com/epfarki" rel="external" title="Besleme">Feed</a> |
-<a href="//epfarki.com/git/?url=//www.alexa.com/siteinfo/epfarki.com" rel="external" title="Alexa">Alexa</a> |
-<a href="//epfarki.com/git/?url=//validator.w3.org/check?uri=http%3a%2f%2fepfarki.com%2f" rel="external" title="W3-html">W3-html</a> |
-<a href="//epfarki.com/git/?url=//jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fepfarki.com%2F" rel="external" title="W3-css">W3-css</a> |
-<a href="//epfarki.com/sitemap-video.xml" rel="external" title="Video-Site Haritası">V-Site Haritası</a> |
-<a href="//epfarki.com/site-haritasi/" title="Site Haritası">Site Haritası</a>
-</p></div>
+  <div class="footerout">
 
-<div class="bottom-right"><p>
-<a href="//epfarki.com/" title="epfarki.com">EPfarkı</a> <a href="//epfarki.com/git/?url=//creativecommons.org/licenses/by-nc-nd/3.0/deed.tr" title="creativecommons" rel="external">©2013</a> | Tasarım: <a href="//epfarki.com/iletisim/" title="İletişim">Bizimakin</a> | Özel İletişim: iletisim [at] epfarki.com
-</p></div>
-</div>
+    <div id="footer-bottom">
+      <div class="bottom-left"><p>
+          <a href="//epfarki.com/hizmet/" rel="appendix" title="Hizmet">Hizmet</a> |
+          <a href="//epfarki.com/git/?url=//feeds.feedburner.com/epfarki" rel="external" title="Besleme">Feed</a> |
+          <a href="//epfarki.com/git/?url=//www.alexa.com/siteinfo/epfarki.com" rel="external" title="Alexa">Alexa</a> |
+          <a href="//epfarki.com/git/?url=//validator.w3.org/check?uri=http%3a%2f%2fepfarki.com%2f" rel="external" title="W3-html">W3-html</a> |
+          <a href="//epfarki.com/git/?url=//jigsaw.w3.org/css-validator/validator?uri=http%3A%2F%2Fepfarki.com%2F" rel="external" title="W3-css">W3-css</a> |
+          <a href="//epfarki.com/sitemap-video.xml" rel="external" title="Video-Site Haritası">V-Site Haritası</a> |
+          <a href="//epfarki.com/site-haritasi/" title="Site Haritası">Site Haritası</a>
+        </p></div>
 
-<div id="sosyal10"><a class="yukari updatable"></a></div>
-<a class="gulucuk"></a>
-</div></div>
+      <div class="bottom-right"><p>
+          <a href="//epfarki.com/" title="epfarki.com">EPfarkı</a> <a href="//epfarki.com/git/?url=//creativecommons.org/licenses/by-nc-nd/3.0/deed.tr" title="creativecommons" rel="external">©2013</a> | Tasarım: <a href="//epfarki.com/iletisim/" title="İletişim">Bizimakin</a> | Özel İletişim: iletisim [at] epfarki.com
+        </p></div>
+    </div>
 
-</div></div></div></div> 
+    <div id="sosyal10"><a class="yukari updatable"></a></div>
+    <a class="gulucuk"></a>
+  </div></div>
+
+</div></div></div></div>
 
 <!-- W3TC-include-js-head -->
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -36,8 +36,8 @@
 <!-- sayac -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-26694472-1', 'auto');
